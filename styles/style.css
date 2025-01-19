@@ -1,0 +1,21 @@
+/* nav releted style */
+.infulenser-home{
+display:flex;
+align-items: center; 
+justify-content: space-around;
+
+}
+.infulenser{
+font-size: 1.5rem;
+font-weight: 600;
+}
+.black{
+color: rgba(58, 58, 58, 1);
+text-decoration: none;
+margin-left: 20px;
+}
+.ul-fx{
+    display: flex;
+    list-style: none;
+
+}
